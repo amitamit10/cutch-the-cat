@@ -5,8 +5,8 @@ WINDOW_HEIGHT = 400
 BG_COLOR = (135, 206, 235)  # Sky blue
 
 # image consts:
-CAT_IMAGE_PATH = "images/cat.png"
-TREE_IMAGE_PATH = "images/tree.png"
+CAT_IMAGE_PATH = "what i got alrady from nitzanin/images/cat.png"
+TREE_IMAGE_PATH = "what i got alrady from nitzanin/images/tree.png"
 
 CAT_SIZE = (60, 60)
 TREE_SIZE = (200, WINDOW_HEIGHT)
